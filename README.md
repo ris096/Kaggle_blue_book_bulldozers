@@ -1,5 +1,5 @@
 ## Kaggle - Bluebook for bulldozers
-The objective of this project is to creat a model to predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers  
+The objective of this project is to create a model to predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers  
 I got the dataset from the [Kaggle Competition](https://www.kaggle.com/c/bluebook-for-bulldozers)  
   
 ### My approach  
